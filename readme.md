@@ -6,5 +6,4 @@ Setup
 </br>
 3)Run python3 upload_files.py
 </br>
-![ref]
-[ref]: Cloud.png
+![alt text](Cloud.png)
